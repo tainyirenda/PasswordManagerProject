@@ -2,7 +2,7 @@
 <h1 align="center"> Password Manager </h1>
 <h3 align="center">Hi 👋, I'm Tai</h3>
 
-<h4 align="left"> 🌱 Ever struggle to come up with a secure password? Join me in Python where I create a password generator to help with your password struggles. </h4>
+<h4 align="left"> 🌱 Ever struggle to come up with a secure password? Join me in Python where I create a password generator to help with your password struggles whilst showing yhow to handle JSON files, errors (key, type and value errors) and exceptions (i.e try, except, else and finally) </h4>
 <p align="left">
 </p>
 
